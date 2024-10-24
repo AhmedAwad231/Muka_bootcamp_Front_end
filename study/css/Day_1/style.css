@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: "Arima", system-ui;
+}
+.container {
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  padding: 20px;
+  background-color: #eee;
+  margin: 10px;
+}
+img {
+  border-radius: 50%;
+  border: 2px solid red;
+}
+#details {
+  text-align: center;
+  width: 200px;
+}
+h2 {
+  color: rebeccapurple;
+}
+p {
+  font-size: 17px;
+  color: darkred;
+}
